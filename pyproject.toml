@@ -1,0 +1,12 @@
+[project]
+name = "my-ai-agent-book"
+version = "0.1.0"
+description = "深入理解 AI Agent 实战：从零实现的 coding agent"
+authors = [
+    { name = "VirtualVapor502", email = "virtualvapor502@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=3.29.0",
+    "python-dotenv>=1.2.4",
+]
