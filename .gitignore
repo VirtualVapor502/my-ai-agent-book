@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 密钥与本地环境，绝不入库
+.env
+.env.*
+!.env.example
